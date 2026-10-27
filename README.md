@@ -18,9 +18,7 @@
 ---
 
 ## 👨‍💻 About Me
-
-- 🔭 Currently working on **my Sepsis Detection AI project**
-- 👯 Looking to collaborate on **open-source web development projects**
+- 👯 Looking to collaborate on **open-source web/app development projects**
 - 🤝 All of my projects are available on **[my GitHub](https://github.com/duong-thien-anh?tab=repositories)**
 - 📫 Reach me at **duongthienanh1902@gmail.com**
 
