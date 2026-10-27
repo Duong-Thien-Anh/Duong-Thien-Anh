@@ -30,13 +30,32 @@
 
 <div align="center">
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,java,php,python,mysql,mongodb,docker,git,figma,postman&perline=8" alt="Languages and Tools" />
-</a>
+<b>Languages</b><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,php,python&perline=7" alt="Languages" />
 
 <br/><br/>
 
+<b>Frontend</b><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&perline=7" alt="Frontend" />
+<br/>
+<img src="https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack" />
+
+<br/><br/>
+
+<b>Backend</b><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,spring,laravel&perline=7" alt="Backend" />
+
+<br/><br/>
+
+<b>Database</b><br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=7" alt="Database" />
+<br/>
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+
+<br/><br/>
+
+<b>DevOps & Tools</b><br/>
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,gitlab,cloudflare,figma,postman&perline=8" alt="DevOps and Tools" />
 
 </div>
 
